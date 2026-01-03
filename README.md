@@ -51,11 +51,17 @@ src="https://img.icons8.com/?size=96&id=4YmrqudTVJhf&format=png" width="48" heig
 * ✉️  Email me at [paramsoni.me@gmail.com](mailto:paramsoni.me@gmail.com)
 
 
+
+
 </p>
 
  <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
+<br/>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=paramsoni99&label=Profile%20Views&color=0e1117&style=flat-square&label_color=0e1117&text_color=ffffff" alt="profile views" />
+</div>
 
