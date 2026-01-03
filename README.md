@@ -2,22 +2,20 @@
 <h1 align="center">{Hello, World} 👋, I'm Param Soni!</h1>
 <h2 align="center"><img src="https://i.gifer.com/LV3z.gif" width="90px">A Software Dev from India<img src="https://i.gifer.com/Pak.gif" width="60px"></h2>
 <div align="left">
-    <div align="left">
-  <img src="https://i.gifer.com/Vp3L.gif" height="20" width="100%">
-</div>
+   
   
 
-
-
-
 * 🎓  I'm currently pursuing a B.Tech in Information Technology(IT)
-* ✉️  You can contact me at [paramsoni.me@gmail.com](mailto:paramsoni.me@gmail.com)
 * 🤖 I'm currently Learning skills.
 * 🚀 I'm interested in Cloud Computing & Cyber Security.
 
- <div align="left">
-  <img src="https://i.gifer.com/Vp3L.gif" height="20" width="100%">
-</div>
+<h3 align="left">Connect with me </h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/param-soni-me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek ganvir" height="26" width="35" /></a>
+
+* ✉️  Email me at [paramsoni.me@gmail.com](mailto:paramsoni.me@gmail.com)
+
+
 
 ### Skills
 <p align="left">
@@ -40,27 +38,30 @@
    <img src="https://img.icons8.com/?size=96&id=q0M8gjDmE4iW&format=png" width="50" height="48"  /> <img
 src="https://img.icons8.com/?size=96&id=4YmrqudTVJhf&format=png" width="48" height="42" />
 </p> 
-  
-<div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<br/><br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paramsoni99&bg_color=0e1117&color=ffffff&line=bc8cff&point=ffffff&hide_border=true" alt="Activity Graph" />
 </div>
-<h3 align="left">Connect with me </h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/param-soni-me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek ganvir" height="26" width="35" /></a>
+  
 
-* ✉️  Email me at [paramsoni.me@gmail.com](mailto:paramsoni.me@gmail.com)
+<br/>
 
 
 
 
 </p>
 
- <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
 <br/>
 
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=paramsoni99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paramsoni99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" />
+</div>
+<br/><br/>
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&hide_border=true" alt="Jokes Card" />
+</div>
+<br/>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=paramsoni99&label=Profile%20Views&color=0e1117&style=flat-square&label_color=0e1117&text_color=ffffff" alt="profile views" />
 </div>
